@@ -1,0 +1,15 @@
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/bin/Debug/net7.0/Exemple_001
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/bin/Debug/net7.0/Exemple_001.deps.json
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/bin/Debug/net7.0/Exemple_001.runtimeconfig.json
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/bin/Debug/net7.0/Exemple_001.dll
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/bin/Debug/net7.0/Exemple_001.pdb
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.csproj.AssemblyReference.cache
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.AssemblyInfoInputs.cache
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.AssemblyInfo.cs
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.csproj.CoreCompileInputs.cache
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.dll
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/refint/Exemple_001.dll
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.pdb
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/Exemple_001.genruntimeconfig.cache
+/Users/kurts/Desktop/GeekBrains/С#/Exemple_001/obj/Debug/net7.0/ref/Exemple_001.dll
